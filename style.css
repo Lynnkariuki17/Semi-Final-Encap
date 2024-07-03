@@ -446,7 +446,7 @@ p{
 }
 /*----------footer--------*/
 footer {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     margin-left: 1px;
     margin-right: 1px;
